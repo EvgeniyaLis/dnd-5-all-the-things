@@ -1,0 +1,75 @@
+{
+  "name": "dnd5-all-the-things",
+  "title": "DND 5 All the things",
+  "description": "Collection of all the classes, mosters, items etc. to use in DND 5e game.",
+  "authors": [
+    {
+      "name": "JJFox"
+    }
+  ],
+  "version": "1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "packs": [
+		{
+			"name": "classes-att",
+			"label": "Classes (ATT)",
+			"path": "./packs/classes-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "class-features-att",
+			"label": "Class Features (ATT)",
+			"path": "./packs/class-features-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "subclasses-att",
+			"label": "Subclasses (ATT)",
+			"path": "./packs/subclasses-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "races-att",
+			"label": "Races (ATT)",
+			"path": "./packs/races-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "monster-features-att",
+			"label": "Monster Features (ATT)",
+			"path": "./packs/monster-features-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "racial-features-att",
+			"label": "Racial Features (ATT)",
+			"path": "./packs/racial-features-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "spells-att",
+			"label": "Spells (ATT)",
+			"path": "./packs/spells-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "monsters-att",
+			"label": "Monsters (ATT)",
+			"path": "./packs/monsters-att.db",
+			"type": "Actor"
+		},
+		{
+			"name": "items-att",
+			"label": "Items (ATT)",
+			"path": "./packs/items-att.db",
+			"type": "Item"
+		},
+		{
+			"name": "items-2-att",
+			"label": "Items 2 (ATT)",
+			"path": "./packs/items-2-att.db",
+			"type": "Item"
+		}
+	]
+}
