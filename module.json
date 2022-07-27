@@ -78,6 +78,24 @@
       "label": "Background Tables (ATT)",
       "path": "./packs/background-tables-att.db",
       "type": "RollTable"
+    },
+	{
+      "name": "main-dnd-tables-att",
+      "label": "Main DND Tables (ATT)",
+      "path": "./packs/main-dnd-tables-att.db",
+      "type": "RollTable"
+    },
+    {
+      "name": "races-tables-att",
+      "label": "Races Tables (ATT)",
+      "path": "./packs/races-tables-att.db",
+      "type": "RollTable"
+    },
+	{
+      "name": "traps-and-hazards-att",
+      "label": "Traps & Hazards (ATT)",
+      "path": "./packs/traps-and-hazards-att.db",
+      "type": "JournalEntry"
     }
   ]
 }
