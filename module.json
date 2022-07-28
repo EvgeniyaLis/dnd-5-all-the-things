@@ -74,6 +74,12 @@
       "type": "Item"
     },
     {
+      "name": "background-features-att",
+      "label": "Background Features (ATT)",
+      "path": "./packs/background-features-att.db",
+      "type": "Item"
+    },
+    {
       "name": "background-tables-att",
       "label": "Background Tables (ATT)",
       "path": "./packs/background-tables-att.db",
