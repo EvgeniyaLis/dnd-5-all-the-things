@@ -9,6 +9,54 @@
   "version": "1.5",
   "manifest": "https://raw.githubusercontent.com/EvgeniyaLis/dnd-5-all-the-things/master/module.json",
   "download": "https://github.com/EvgeniyaLis/dnd-5-all-the-things/raw/master/dnd5-all-the-things.zip",
+  "packFolders": [
+        {
+            "name": "All The Things (ATT)",
+            "sorting": "a",
+            "packs": [
+                "adventures-att",
+				"spells-att",
+				"items-att",
+				"traps-and-hazards-att"
+            ]
+        },
+		"folders":[
+			{
+			  "name": "Characters",
+			  "sorting": "a",
+			  "color": "#0e007a",
+			  "packs": [
+				"monsters-att",
+				"npcs-att"
+			  ]
+			},
+			{
+			  "name": "Features",
+			  "sorting": "a",
+			  "color": "#166600",
+			  "packs": [
+				"classes-att",
+				"class-features-att",
+				"subclasses-att",
+				"races-att",
+				"monster-features-att",
+				"racial-features-att",
+				"backgrounds-att",
+				"background-features-att"
+			  ]
+			},
+			{
+			  "name": "Tables",
+			  "sorting": "a",
+			  "color": "#0e007a",
+			  "packs": [
+				"background-tables-att",
+				"main-dnd-tables-att",
+				"races-tables-att"
+			  ]
+			}
+		]
+    ],
   "packs": [
     {
       "name": "adventures-att",

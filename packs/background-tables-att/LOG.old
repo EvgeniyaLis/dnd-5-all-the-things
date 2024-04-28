@@ -1,3 +1,8 @@
-2024/04/27-18:50:34.989 ab18 Recovering log #189
-2024/04/27-18:50:34.992 ab18 Delete type=0 #189
-2024/04/27-18:50:34.992 ab18 Delete type=3 #187
+2024/04/28-11:06:43.253 a2b0 Recovering log #192
+2024/04/28-11:06:43.257 a2b0 Delete type=0 #192
+2024/04/28-11:06:43.257 a2b0 Delete type=3 #191
+2024/04/28-11:07:44.222 24a4 Level-0 table #196: started
+2024/04/28-11:07:44.222 24a4 Level-0 table #196: 0 bytes OK
+2024/04/28-11:07:44.224 24a4 Delete type=0 #194
+2024/04/28-11:07:44.229 24a4 Manual compaction at level-0 from '!folders!SysLyOekslIueGJi' @ 72057594037927935 : 1 .. '!tables.results!shZpV9shZ74TjLkX.tvbTb6AnoLmeP76p' @ 0 : 0; will stop at (end)
+2024/04/28-11:07:44.229 24a4 Manual compaction at level-1 from '!folders!SysLyOekslIueGJi' @ 72057594037927935 : 1 .. '!tables.results!shZpV9shZ74TjLkX.tvbTb6AnoLmeP76p' @ 0 : 0; will stop at (end)
