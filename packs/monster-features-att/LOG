@@ -1,0 +1,7 @@
+2024/04/28-11:06:43.125 547c Recovering log #191
+2024/04/28-11:06:43.135 547c Delete type=0 #191
+2024/04/28-11:06:43.135 547c Delete type=3 #190
+2024/04/28-11:07:44.204 24a4 Level-0 table #195: started
+2024/04/28-11:07:44.204 24a4 Level-0 table #195: 0 bytes OK
+2024/04/28-11:07:44.209 24a4 Delete type=0 #193
+2024/04/28-11:07:44.209 24a4 Manual compaction at level-0 from '!items!MOSN2gq98MZ5TLOB' @ 72057594037927935 : 1 .. '!items!MOSN2gq98MZ5TLOB' @ 0 : 0; will stop at (end)
