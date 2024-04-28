@@ -18,9 +18,8 @@
 				"spells-att",
 				"items-att",
 				"traps-and-hazards-att"
-            ]
-        },
-		"folders":[
+            ],
+			"folders":[
 			{
 			  "name": "Characters",
 			  "sorting": "a",
@@ -56,6 +55,7 @@
 			  ]
 			}
 		]
+        }
     ],
   "packs": [
     {
