@@ -1,8 +1,15 @@
-2024/04/28-11:06:43.161 547c Recovering log #193
-2024/04/28-11:06:43.170 547c Delete type=0 #193
-2024/04/28-11:06:43.171 547c Delete type=3 #192
-2024/04/28-11:07:44.195 24a4 Level-0 table #197: started
-2024/04/28-11:07:44.195 24a4 Level-0 table #197: 0 bytes OK
-2024/04/28-11:07:44.199 24a4 Delete type=0 #195
-2024/04/28-11:07:44.209 24a4 Manual compaction at level-0 from '!folders!0pdesvXqKd55VOh2' @ 72057594037927935 : 1 .. '!items.effects!zwGsAv6kmwzYGhh3.H0SG0oq3VfiCxBOQ' @ 0 : 0; will stop at (end)
-2024/04/28-11:07:44.209 24a4 Manual compaction at level-1 from '!folders!0pdesvXqKd55VOh2' @ 72057594037927935 : 1 .. '!items.effects!zwGsAv6kmwzYGhh3.H0SG0oq3VfiCxBOQ' @ 0 : 0; will stop at (end)
+2024/04/28-12:31:24.356 93c0 Recovering log #209
+2024/04/28-12:31:24.358 93c0 Delete type=0 #209
+2024/04/28-12:31:24.358 93c0 Delete type=3 #207
+2024/04/28-18:12:24.508 5690 Level-0 table #214: started
+2024/04/28-18:12:24.512 5690 Level-0 table #214: 79005 bytes OK
+2024/04/28-18:12:24.513 5690 Delete type=0 #212
+2024/04/28-18:12:24.517 5690 Manual compaction at level-0 from '!folders!0pdesvXqKd55VOh2' @ 72057594037927935 : 1 .. '!items.effects!zwGsAv6kmwzYGhh3.H0SG0oq3VfiCxBOQ' @ 0 : 0; will stop at (end)
+2024/04/28-18:12:24.518 5690 Manual compaction at level-1 from '!folders!0pdesvXqKd55VOh2' @ 72057594037927935 : 1 .. '!items.effects!zwGsAv6kmwzYGhh3.H0SG0oq3VfiCxBOQ' @ 0 : 0; will stop at '!items.effects!ir00SOHd3OK2qXJI.lVKx8swB08jm6IFE' @ 2366 : 0
+2024/04/28-18:12:24.519 5690 Compacting 1@1 + 1@2 files
+2024/04/28-18:12:24.527 5690 Generated table #215@1: 702 keys, 882014 bytes
+2024/04/28-18:12:24.527 5690 Compacted 1@1 + 1@2 files => 882014 bytes
+2024/04/28-18:12:24.528 5690 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/28-18:12:24.528 5690 Delete type=2 #206
+2024/04/28-18:12:24.528 5690 Delete type=2 #214
+2024/04/28-18:12:24.532 5690 Manual compaction at level-1 from '!items.effects!ir00SOHd3OK2qXJI.lVKx8swB08jm6IFE' @ 2366 : 0 .. '!items.effects!zwGsAv6kmwzYGhh3.H0SG0oq3VfiCxBOQ' @ 0 : 0; will stop at (end)
